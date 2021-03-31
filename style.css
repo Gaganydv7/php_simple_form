@@ -51,6 +51,10 @@ form {
     border-radius: 7px;
     cursor: pointer;
 }
+.btn:hover {
+    color: black;
+}
+
 
 .bg {
     width: 100%;
